@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RYM</string>
+
+    <string name="nav_home">Главная</string>
+    <string name="nav_charts">Чарты</string>
+    <string name="nav_new">Новинки</string>
+    <string name="nav_genres">Жанры</string>
+    <string name="nav_lists">Списки</string>
+
+    <string name="action_search">Поиск</string>
+    <string name="search_hint">Артист, альбом, жанр…</string>
+    <string name="action_refresh">Обновить</string>
+    <string name="action_share">Поделиться ссылкой</string>
+    <string name="action_browser">Открыть в браузере</string>
+    <string name="action_text_size">Размер текста</string>
+    <string name="action_clear">Выйти и очистить данные сайта</string>
+
+    <string name="error_text">Не удалось загрузить страницу.\nПроверьте подключение к интернету.</string>
+    <string name="retry">Повторить</string>
+    <string name="no_app_for_link">Не найдено приложение для открытия ссылки</string>
+
+    <string name="text_size_format">Размер текста: %d%%</string>
+
+    <string name="clear_title">Очистить данные сайта?</string>
+    <string name="clear_message">Вы выйдете из аккаунта, а cookies и кэш будут удалены.</string>
+    <string name="clear_confirm">Очистить</string>
+    <string name="cancel">Отмена</string>
+    <string name="cleared">Данные очищены</string>
+</resources>
